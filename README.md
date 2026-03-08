@@ -11,3 +11,14 @@ A: This is currently in active development. Use at your own risk.
 
 **Q: How can I contribute?**
 A: See the Contributing section above.
+
+## Features
+- Custom configurations
+- Learning resources
+
+## Getting Started
+Clone the repo and install the configurations to enhance your Vim experience.
+
+## Future Plans
+- Add more configurations
+- Improve documentation
