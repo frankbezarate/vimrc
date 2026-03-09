@@ -22,3 +22,6 @@ Clone the repo and install the configurations to enhance your Vim experience.
 ## Future Plans
 - Add more configurations
 - Improve documentation
+
+## Current Status
+This project is currently in active development, and contributions are welcome!
